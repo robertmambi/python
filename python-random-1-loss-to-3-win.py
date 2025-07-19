@@ -1,0 +1,3 @@
+- This is sample demo
+- si ta trade 10 pip loss vs 20 pip win
+- randomize win/loss 
